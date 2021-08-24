@@ -3,9 +3,11 @@ An addon I made to make the use of 'https://r8.whiteboardfox.com/' easier
 
 This software is not under copyright
 
+IMPORTANT: IF YOU HAVE THE BOOKMARK BAR ON ON WHITEBOARD FOX THEN OPEN THE BMB COMPATIBILITY FILE INSTEAD OF THE NORMAL ONE
+
 How to use the software:
 
-Open up the master exe file. This provides many functions:
+Open up the master exe file. Open up the master(bmb compatibility) file if you have the bookmark bar on. The software provides many functions:
 shift r - toggle ruler
 shift e - eraser tool
 shift d - draw tool
